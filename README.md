@@ -1,2 +1,2 @@
 # Sentiment Analysis - Movie Reviews
-Experiment on rotten tomatoes moview reviews dataset
+Experiment on rotten tomatoes movie reviews dataset
