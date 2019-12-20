@@ -130,3 +130,6 @@ dmypy.json
 
 # Folders with data
 misc/
+
+# misc
+easy_setup.sh
